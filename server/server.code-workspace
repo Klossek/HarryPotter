@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+
+	"workbench.colorTheme": "Solarized Dark"
+  },
+  
+
+}
